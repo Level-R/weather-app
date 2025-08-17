@@ -46,7 +46,7 @@ A simple and responsive web application that displays real-time weather data for
     const apiKey = 'YOUR_API_KEY';
     ```
 3. Run The app:
-- open index.html in your browser.
+   - open index.html in your browser.
 
 ### ❗ Important Notes
 - Keep your API key secure. Use environment variables in production.
@@ -57,11 +57,11 @@ A simple and responsive web application that displays real-time weather data for
 
 **Developed by:** Abdur Rahman Roky
 
-- 📧 Email: [john.doe@gmail.com](mailto:abdurrahmanroky.bd@gmail.com)
+- 📧 Email: [abdurrahmanroky.bd@gmail.com](mailto:abdurrahmanroky.bd@gmail.com)
 - 🐙 GitHub: [github.com/level-r](https://github.com/level-r)
 
 Feel free to reach out for collaborations, suggestions, or feedback!
 
 ---
 
-### Made with ❤️ using HTML, CSS, JavaScript and Weather API (https://www.weatherapi.com/)
+## Made with ❤️ using HTML, CSS, JavaScript and Weather API (https://www.weatherapi.com/)
