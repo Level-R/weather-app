@@ -12,7 +12,9 @@ A simple and responsive web application that displays real-time weather data for
 
 ## 📸 Preview
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](/assets/img/1.png)
+![Weather App Screenshot](/assets/img/2.png)
+![Weather App Screenshot](/assets/img/3.png)
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +32,7 @@ A simple and responsive web application that displays real-time weather data for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/real-time-weather-app.git
+   git clone https://github.com/Level-R/weather-app
    cd weather-app
    ```
 2.  Edit js file
@@ -39,7 +41,7 @@ A simple and responsive web application that displays real-time weather data for
     cd js
     ```
 3. 15th line edit and add your API Key:
-- In script.js replace the placeholder with your actual API key:
+   - In script.js replace the placeholder with your actual API key:
     ```bash
     const apiKey = 'YOUR_API_KEY';
     ```
