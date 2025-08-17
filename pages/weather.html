@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>Weather App</title>
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h2>🌤 Real-Time Weather</h2>
+    <form id="weatherForm">
+      <input type="text" id="locationInput" placeholder="Enter location..." required autofocus />
+      <button type="submit">Get Weather</button>
+    </form>
+
+    <div id="loading" class="hidden"><i class="fa fa-refresh fa-spin" style="font-size:24px"></i> Loading weather...</div>
+    
+    <div id="weatherResult" class="weather-card hidden"></div>
+
+    <a href="/index.html"><button style="margin-top: 1rem;">← Back</button></a>
+  </div>
+  <script src="/assets/js/script.js"></script>
+</body>
+</html>
